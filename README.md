@@ -8,9 +8,8 @@ There weren't any multiplayer nonogram games, at least one where you didn't make
 I may host it on my website too but my wallet hasn't been too happy with me lately, eh. Consider sponsoring or hiring me or something 👍
 
 ## Contributors
-[Shubham](https://github.com/ShubhamVG): The architecture for client-server communication (no code, only architecture).
-
-[Dana](https://github.com/Dana-f559): Coded everything following the architecture.
+- [Shubham](https://github.com/ShubhamVG): The architecture for client-server communication (no code, only architecture).
+- [Dana](https://github.com/Dana-f559): Coded everything following the architecture.
 
 Blame the correct contributor for their respective fuckery.
 
